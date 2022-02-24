@@ -9,4 +9,23 @@
     "version" : "Latest",
     "type" : "context"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "_yueO0JUuEeyDk__Ng6RROA",
+    "version" : "1.0",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_btsv8JUwEeyDk__Ng6RROA - Customer_meta",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_eZPloJUvEeyDk__Ng6RROA - lookup_meta",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
 } ]
