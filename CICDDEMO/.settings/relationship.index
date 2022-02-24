@@ -50,4 +50,15 @@
     "version" : "1.0",
     "type" : "test_case"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "_wkb_MJU5EeyDk__Ng6RROA",
+    "version" : "1.0",
+    "type" : "test_case"
+  },
+  "relatedItems" : [ {
+    "id" : "_yueO0JUuEeyDk__Ng6RROA",
+    "version" : "1.0",
+    "type" : "test_case"
+  } ]
 } ]
